@@ -1,0 +1,12 @@
+﻿  clock.cpp
+clock.cpp(37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+clock.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+clock.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  2 of 107 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Clock.vcxproj -> D:\My Projects\Works\Clock\Release\Clock.exe
+  Clock.vcxproj -> D:\My Projects\Works\Clock\Release\Clock.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  clock.cpp
+d:\my projects\works\clock\clock.cpp(37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\my projects\works\clock\clock.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\my projects\works\clock\clock.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Clock.vcxproj -> D:\My Projects\Works\Clock\Debug\Clock.exe
+  Clock.vcxproj -> D:\My Projects\Works\Clock\Debug\Clock.pdb (Partial PDB)
